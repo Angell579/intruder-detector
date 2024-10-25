@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [INTRUDER DETECTOR] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: POWER KIDS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: ANGEL TERESA - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
+- Member 2: JERALD JAXON - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
+- Member 3: IRIN JEROME - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
 
 ### Project Description
 [2-3 lines about what your project does]
