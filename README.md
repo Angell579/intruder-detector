@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [INTRUDER DETECTOR] 🎯
+# INTRUDER DETECTOR 🎯
 
 
 ## Basic Details
@@ -13,83 +13,51 @@
 - Member 3: IRIN JEROME - SNMIMT ENGINEERING COLLEGE, ERNAKULAM
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is an Intruder Detection System that uses a combination of ultrasonic sensor and Arduino uno to detect intruders and alert the user.
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem 
+burglary, vandalism, and other security threats.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution 
+it used to protect against burglary, vandalism, and other security threats.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- c program
+- Arduino IDE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Arduino uno
+- Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz ceramic resonator (CSTCE16M0V53-R0), a USB connection, a power jack, an ICSP header and a reset button.
+- alarm,Sensors,leds
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+https://www.arduino.cc/en/software
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Incredible Esboo-Curcan](https://github.com/user-attachments/assets/08183323-36fe-4c1a-bd77-b6d8f253a8e4)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Components]
+![images](https://github.com/user-attachments/assets/ab470973-7b3e-4b24-940d-cd1b0888c800)
 
-![Final](Add photo of final product here)
-*Explain the final build*
+Final
+![intruder detector img](https://github.com/user-attachments/assets/296ec4e3-7823-44cb-a533-9ed401d04935)
+
+![intruder detector imag](https://github.com/user-attachments/assets/9ca00715-16d0-408f-bd07-1d95d9376ae8)
+
+![Intruder_Detector imag](https://github.com/user-attachments/assets/a7cec464-7e51-432d-9e87-06640ed61479)
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
