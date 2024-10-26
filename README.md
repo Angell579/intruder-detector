@@ -63,7 +63,12 @@ https://github.com/user-attachments/assets/0c43e109-4a45-4cf1-96ec-69536a6f4d25
 
 An intruder detector using motion sensors is a security device that identifies movement within a designated area. These sensors typically use infrared technology to detect heat emitted by people or animals. When motion is detected, the system can trigger alarms, send notifications to your smartphone, or activate surveillance cameras.
 
-Motion sensors can be used indoors and outdoors and are often adjustable to minimize false alarms caused by pets or small objects. They are a key component of many modern security systems, providing an effective way to enhance home or business security.
+Motion sensors can be used indoors and outdoors and are often adjustable to minimize false alarms caused by pets or small objects. They are a key component of many modern security systems, providing an effective way to enhance home or business security.  
+
+TEAM CONTRIBUTION:
+Angel Teresa: give the idea of the project
+Jerald jaxon: generated the code
+Irin Jerome: algorithm about the project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
