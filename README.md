@@ -65,10 +65,11 @@ An intruder detector using motion sensors is a security device that identifies m
 
 Motion sensors can be used indoors and outdoors and are often adjustable to minimize false alarms caused by pets or small objects. They are a key component of many modern security systems, providing an effective way to enhance home or business security.  
 
-TEAM CONTRIBUTION:
-Angel Teresa: give the idea of the project
-Jerald jaxon: generated the code
-Irin Jerome: algorithm about the project
+#TEAM CONTRIBUTION:
+
+-Angel Teresa: give the idea of the project.
+-Jerald jaxon: generated the code.
+-Irin Jerome: algorithm about the project.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
