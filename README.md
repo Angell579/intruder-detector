@@ -68,7 +68,9 @@ Motion sensors can be used indoors and outdoors and are often adjustable to mini
 #TEAM CONTRIBUTION:
 
 -Angel Teresa: give the idea of the project.
+
 -Jerald jaxon: generated the code.
+
 -Irin Jerome: algorithm about the project.
 
 ---
